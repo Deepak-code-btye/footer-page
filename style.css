@@ -163,16 +163,16 @@ input {
     }
     
     .section h5{
-        font-size: 10px;
+        font-size: 13px;
     }
     .item1 li{
-        font-size: 9px;
+        font-size: 12px;
     }
     .item2 li{
-        font-size: 9px;
+        font-size: 12px;
     } 
     .item3 li{
-        font-size: 9px;
+        font-size: 12px;
     }
 
     .buttonIn {
@@ -201,11 +201,12 @@ input {
         display: flex;
         justify-content: center;
     }
+    .item2{
+        width: 494px;
+    }
     .item2 ul{
-        font-size: 9px;
         display: grid;
-        /* grid-template-columns: repeat(3,133px); */
-        grid-template-columns: repeat(3,105px);
+        grid-template-columns: repeat(3,135px);
         text-align: center;
         justify-content: center;
     }
@@ -300,13 +301,13 @@ input {
          font-size: 10px;
      }
      .item1 li{
-         font-size: 9px;
+         font-size: 10px;
      }
      .item2 li{
-         font-size: 9px;
+         font-size: 10px;
      } 
      .item3 li{
-         font-size: 9px;
+         font-size: 10px;
      }
      .buttonIn {
         padding-top: 20px;
