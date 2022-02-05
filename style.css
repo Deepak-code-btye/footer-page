@@ -109,6 +109,7 @@ input {
     height: 38px;
     border:1px solid white;
     border-radius: 5px;
+    color: #E5DFD9;
 }
     button {
     position: absolute;
