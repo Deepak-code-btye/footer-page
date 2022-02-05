@@ -159,7 +159,15 @@ input {
          padding-bottom: 5px;
          display: grid;
     }
-    
+    .item1{
+        padding-top: 30px;
+    }
+    .item2{
+        padding-top: 30px;
+    }
+    .item3{
+        padding-top: 30px;
+    }
     .section h5{
         font-size: 13px;
     }
@@ -195,7 +203,6 @@ input {
          text-align: center;
     }
     .item2 h5{
-        padding-top: 18px;
         display: flex;
         justify-content: center;
     }
@@ -212,6 +219,7 @@ input {
         grid-column: 1/-1;
     }
     .item3 h5{
+        padding-top: 20px;
         padding-top: 18px;
         display: flex;
         justify-content: center;
@@ -223,9 +231,11 @@ input {
         justify-content: center;
         text-align: center;
      }.add_section p{
+         font-size: 14px;
          width: 400px;
      }
      .add_section{
+         padding-top: 35px;
          display: flex;
          justify-content: center;
          text-align: center;
@@ -352,7 +362,7 @@ input {
         text-align: center;
      }
      .add_section p{
-        font-size: 10px;
+        font-size: 12px;
      }
      .add_section{
          padding-top:15px ;
