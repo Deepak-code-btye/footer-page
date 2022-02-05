@@ -205,7 +205,7 @@ input {
         font-size: 9px;
         display: grid;
         /* grid-template-columns: repeat(3,133px); */
-        grid-template-columns: repeat(3,108px);
+        grid-template-columns: repeat(3,105px);
         text-align: center;
         justify-content: center;
     }
