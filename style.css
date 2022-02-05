@@ -272,7 +272,7 @@ input {
 
 /* -------------------------------- */
 /*  */
- /* @media (max-width:365px) {
+ @media (max-width:398px) {
      .paragragh_line{
          font-size: 9px;
      }
@@ -287,17 +287,26 @@ input {
          width: 90%;
          margin-left: 20px;
      }
+     .item1{
+        width:360px;
+    }
+    .item2{
+        width: 360px;
+    }
+    .item3{
+        width: 360px;
+    }
      .section h5{
          font-size: 10px;
      }
      .item1 li{
-         font-size: 8px;
+         font-size: 9px;
      }
      .item2 li{
-         font-size: 7px;
+         font-size: 9px;
      } 
      .item3 li{
-         font-size: 8px;
+         font-size: 9px;
      }
      .buttonIn {
         padding-top: 20px;
@@ -326,7 +335,7 @@ input {
     }
     .item2 ul{
         display: grid;
-        grid-template-columns: repeat(3,98px);
+        grid-template-columns: repeat(3,114px);
         text-align: center;
         justify-content: center;
     }
@@ -340,7 +349,7 @@ input {
     }
     .item3 ul{
         display: grid;
-        grid-template-columns: repeat(2,51px);
+        grid-template-columns: repeat(2,60px);
         justify-content: center;
         text-align: center;
      }
@@ -375,4 +384,4 @@ input {
         line-height: 28px;
          padding-bottom: 35px;
      }
- } */
+ }
