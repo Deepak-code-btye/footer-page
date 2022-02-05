@@ -188,7 +188,7 @@ input {
     .item1 h5{
         display: flex;
         justify-content: center;
-    }
+    }    
     .item1 ul{
         font-size: 9px;
          display: grid;
