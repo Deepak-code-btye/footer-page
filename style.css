@@ -150,21 +150,9 @@ input {
 @media (max-width:780px) {
     .hr__line{
         width: 90%;
-        margin-left: 30px;
+        margin-left: 22px;
     }
-}
-@media (min-width:781px) and (max-width:1200px) {
- .hr__line{
-    width: 82%;
-    margin-left: 95px;
- }
-}
 
-/* -------------------------------- */
-@media (max-width:700px) {
-    .footer_Page{
-        height:739px;
-    }
     .paragragh_line{
         font-size: 9px;
     }
@@ -178,13 +166,13 @@ input {
         font-size: 10px;
     }
     .item1 li{
-        font-size: 8px;
+        font-size: 9px;
     }
     .item2 li{
-        font-size: 8px;
+        font-size: 9px;
     } 
     .item3 li{
-        font-size: 8px;
+        font-size: 9px;
     }
 
     .buttonIn {
@@ -194,8 +182,8 @@ input {
         padding-top:15px ;
     }
     button{
-        top: 24px;
-        left: 275px;
+        top: 25px;
+        left: 286px;
     }
     .item1 h5{
         display: flex;
@@ -269,8 +257,22 @@ input {
         line-height: 28px;
          padding-bottom: 35px;
      }
+
+
+
+
+}
+@media (min-width:781px) and (max-width:1200px) {
+ .hr__line{
+    width: 82%;
+    margin-left: 95px;
  }
- @media (max-width:365px) {
+}
+/* check line */
+
+/* -------------------------------- */
+/*  */
+ /* @media (max-width:365px) {
      .paragragh_line{
          font-size: 9px;
      }
@@ -373,4 +375,4 @@ input {
         line-height: 28px;
          padding-bottom: 35px;
      }
- }
+ } */
