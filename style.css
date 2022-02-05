@@ -336,7 +336,7 @@ input {
     }
     .item2 ul{
         display: grid;
-        grid-template-columns: repeat(3,127px);
+        grid-template-columns: repeat(3,121px);
         text-align: center;
         justify-content: center;
     }
