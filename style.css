@@ -160,13 +160,13 @@ input {
          display: grid;
     }
     .item1{
-        padding-top: 30px;
+        padding-top: 20px;
     }
     .item2{
-        padding-top: 30px;
+        padding-top: 20px;
     }
     .item3{
-        padding-top: 30px;
+        padding-top: 20px;
     }
     .section h5{
         font-size: 13px;
@@ -235,7 +235,7 @@ input {
          width: 400px;
      }
      .add_section{
-         padding-top: 35px;
+         padding-top: 50px;
          display: flex;
          justify-content: center;
          text-align: center;
@@ -265,7 +265,7 @@ input {
      .logo{
         font-size: 20px;
         line-height: 28px;
-         padding-bottom: 35px;
+        padding-bottom: 35px;
      }
 
 }
@@ -363,9 +363,6 @@ input {
      }
      .add_section p{
         font-size: 12px;
-     }
-     .add_section{
-         padding-top:15px ;
      }
      .add_section span{
          display: none;
