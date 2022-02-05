@@ -160,13 +160,13 @@ input {
          display: grid;
     }
     .item1{
-        padding-top: 20px;
+        padding-top: 35px;
     }
     .item2{
-        padding-top: 20px;
+        padding-top: 35px;
     }
     .item3{
-        padding-top: 20px;
+        padding-top: 35px;
     }
     .section h5{
         font-size: 13px;
@@ -235,7 +235,7 @@ input {
          width: 400px;
      }
      .add_section{
-         padding-top: 50px;
+         padding-top: 55px;
          display: flex;
          justify-content: center;
          text-align: center;
@@ -244,6 +244,7 @@ input {
          display: none;
      }
      .all_icon{
+         padding-top: 20px;
          display: flex;
          justify-content: center;
          position: relative;
@@ -252,20 +253,23 @@ input {
         display: none;
      }
      .all_icon_mobile{
+         padding-top: 20px;
          display: inline;
          font-size: 27px;
           display: flex;
           justify-content: center;
      }
      .all_icon_mobile span{
-         padding: 25px;
+         padding: 35px;
          padding-top:10px ;
          padding-bottom: 5px;
+     }
+     .logo h5{
+         word-spacing:10px;
      }
      .logo{
         font-size: 20px;
         line-height: 28px;
-        padding-bottom: 35px;
      }
 
 }
@@ -294,14 +298,18 @@ input {
          width: 90%;
          margin-left: 20px;
      }
+   
      .item1{
         width:360px;
+        padding-top: 20px;
     }
     .item2{
         width: 360px;
+        padding-top: 20px;
     }
     .item3{
         width: 360px;
+        padding-top: 20px;
     }
      .section h5{
          font-size: 10px;
@@ -367,15 +375,12 @@ input {
      .add_section span{
          display: none;
      }
-     .all_icon{
-         display: flex;
-         justify-content: center;
-         position: relative;
-     }
+ 
      .all_icon span{
         display: none;
      }
      .all_icon_mobile{
+         padding-top: 10px;
          display: inline;
          font-size: 27px;
           display: flex;
@@ -387,6 +392,5 @@ input {
      .logo{
         font-size: 20px;
         line-height: 28px;
-         padding-bottom: 35px;
      }
  }
