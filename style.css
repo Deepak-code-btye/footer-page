@@ -226,7 +226,6 @@ input {
         text-align: center;
      }
      .add_section{
-         /* padding-top: 15px; */
          display: flex;
          justify-content: center;
          text-align: center;
@@ -273,7 +272,7 @@ input {
 
 /* -------------------------------- */
 /*  */
- @media (max-width:398px) {
+ @media (max-width:422px) {
      .paragragh_line{
          font-size: 9px;
      }
@@ -316,8 +315,8 @@ input {
         padding-top:15px ;
     }
     button{
-        top: 24px;
-        left: 253px;
+        top: 26px;
+        left: 263px;
     }
     .item1 h5{
         display: flex;
